@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+cypriot_pos_credentials.json
+resources/cypriot_pos_credentials.json
+*credentials*.json
