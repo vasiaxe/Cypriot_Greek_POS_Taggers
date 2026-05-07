@@ -1,0 +1,7 @@
+gspread
+pandas
+oauth2client
+numpy
+matplotlib
+nltk
+scikit-learn
